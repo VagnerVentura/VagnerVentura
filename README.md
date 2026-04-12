@@ -1,27 +1,53 @@
 # 👋 Olá, eu sou o Vagner Ventura!
 
-Desenvolvedor back-end especializado em Java e Spring Boot, focado na criação de APIs RESTful seguras (JWT), integração com bancos MySQL e PostgreSQL, versionamento com Git e containerização com Docker. Experiência em projetos full stack com React/React Native, uso de DTOs, validação, tratamento de erros e testes automatizados (JUnit/Mockito). Busco aplicar minhas habilidades em sistemas escaláveis e contribuir com soluções de qualidade.
+Desenvolvedor Backend Java, formado em Desenvolvimento de Software Multiplataforma pela FATEC, com experiência na construção e evolução de sistemas corporativos de média e grande escala.
+
+Atuo no desenvolvimento de APIs REST modulares com Spring Boot, aplicando separação de responsabilidades, organização em camadas e isolamento de regras de negócio, sempre com foco em performance, escalabilidade e confiabilidade. Possuo experiência com arquitetura de microsserviços, integração entre sistemas (síncrona e assíncrona), mensageria e processamento de grandes volumes de dados.
+
+Também atuo com modelagem e otimização de bancos relacionais, pipelines de CI/CD, segurança de aplicações e padronização de ambientes com Docker.
 
 ---
 
 ## 💡 Sobre mim
 
-- 🩺 Farmacêutico por formação, apaixonado por tecnologia.
-- 💻 Transição de carreira para desenvolvimento — jornada prática com projetos reais.
-- 🧩 Gosto de resolver problemas com código e construir soluções robustas e eficientes.
-- 🤝 Buscando sempre conectar com colegas devs, empresas e recrutadores que valorizam qualidade e inovação.
+- 🩺 Farmacêutico por formação com forte atuação em tecnologia
+- 💻 Desenvolvedor Backend Java com experiência em sistemas corporativos
+- 🧩 Foco em soluções escaláveis, bem estruturadas e de alta performance
+- 🤝 Atuação colaborativa em times ágeis (Scrum/Kanban)
+- 🚀 Evolução contínua em arquitetura de software e boas práticas
 
 ---
 
 ## 🚀 Principais habilidades
 
-- **Java** & **Spring Boot** (JPA, Security, Web, Validation)
-- **APIs RESTful** com autenticação **JWT**
-- **Bancos de dados**: MySQL, PostgreSQL, MongoDB
-- **Front-end**: React & React Native
-- **Containers**: Docker & Docker Compose
-- **Versionamento**: Git, GitHub, GitHub Actions
-- **Testes**: JUnit & Mockito
+### Back-end
+- **Java** & **Spring Boot** (Web, Data JPA, Security, Validation)
+- Desenvolvimento de **APIs REST** modulares e escaláveis
+- Arquitetura de **microsserviços**
+
+### Integração & Comunicação
+- **Feign Client** (comunicação síncrona)
+- **Mensageria** (comunicação assíncrona)
+- Integração com padrão **HL7 FHIR**
+
+### Banco de Dados
+- **Oracle** e **PostgreSQL**
+- **JPA/Hibernate**
+- Modelagem relacional e otimização de queries complexas
+
+### DevOps & Ferramentas
+- **GitLab**
+- **CI/CD** com Jenkins e Argo CD
+- **Docker** & Docker Compose
+
+### Segurança & Documentação
+- **Keycloak** (OAuth2 / OIDC)
+- **Swagger / OpenAPI**
+
+### Boas práticas
+- **SOLID** & **Clean Code**
+- **Design Patterns** (Builder, Strategy, etc.)
+- DTOs, validações e tratamento de erros
 
 ---
 
