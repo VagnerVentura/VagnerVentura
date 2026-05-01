@@ -1,18 +1,26 @@
 # 👋 Olá, eu sou o Vagner Ventura!
 
-Desenvolvedor Backend Java, formado em Desenvolvimento de Software Multiplataforma pela FATEC, com experiência na construção e evolução de sistemas corporativos de média e grande escala.
+Desenvolvedor Backend Java, formado em Desenvolvimento de Software Multiplataforma pela FATEC, com experiência no desenvolvimento e evolução de sistemas corporativos de média e grande escala.
 
-Atuo no desenvolvimento de APIs REST modulares com Spring Boot, aplicando separação de responsabilidades, organização em camadas e isolamento de regras de negócio, sempre com foco em performance, escalabilidade e confiabilidade. Possuo experiência com arquitetura de microsserviços, integração entre sistemas (síncrona e assíncrona), mensageria e processamento de grandes volumes de dados.
+Atualmente atuo na construção de APIs REST com Spring Boot em uma arquitetura de microsserviços, participando de integrações entre sistemas e processamento de grandes volumes de dados, incluindo bases com milhões de registros.
 
-Também atuo com modelagem e otimização de bancos relacionais, pipelines de CI/CD, segurança de aplicações e padronização de ambientes com Docker.
+Tenho forte atuação na organização de aplicações em camadas, aplicando boas práticas como SOLID e Clean Code, com foco em escalabilidade, performance e manutenção de sistemas.
 
----
+No dia a dia, trabalho com:
+- Integrações síncronas (HTTP/REST com Feign Client) e assíncronas (mensageria)
+- Modelagem e otimização de consultas em bancos relacionais (Oracle e PostgreSQL)
+- Refatoração de código legado e evolução de sistemas
+- Segurança com OAuth2/OIDC (Keycloak)
+- Versionamento com GitLab e pipelines CI/CD (Jenkins e Argo CD)
+- Conteinerização com Docker
+
+Busco evoluir continuamente como desenvolvedor backend, contribuindo com soluções robustas e alinhadas às necessidades de negócio.
 
 ## 💡 Sobre mim
 
-- 🩺 Farmacêutico por formação com forte atuação em tecnologia
 - 💻 Desenvolvedor Backend Java com experiência em sistemas corporativos
 - 🧩 Foco em soluções escaláveis, bem estruturadas e de alta performance
+- 🔗 Experiência com integração entre sistemas e processamento de grandes volumes de dados
 - 🤝 Atuação colaborativa em times ágeis (Scrum/Kanban)
 - 🚀 Evolução contínua em arquitetura de software e boas práticas
 
@@ -22,18 +30,19 @@ Também atuo com modelagem e otimização de bancos relacionais, pipelines de CI
 
 ### Back-end
 - **Java** & **Spring Boot** (Web, Data JPA, Security, Validation)
-- Desenvolvimento de **APIs REST** modulares e escaláveis
+- Desenvolvimento de **APIs REST** modulares, performáticas e escaláveis
 - Arquitetura de **microsserviços**
 
 ### Integração & Comunicação
-- **Feign Client** (comunicação síncrona)
-- **Mensageria** (comunicação assíncrona)
+- **Feign Client** (comunicação síncrona entre serviços)
+- **Mensageria com Kafka** (comunicação assíncrona)
 - Integração com padrão **HL7 FHIR**
 
 ### Banco de Dados
 - **Oracle** e **PostgreSQL**
 - **JPA/Hibernate**
 - Modelagem relacional e otimização de queries complexas
+- Manipulação de grandes volumes de dados
 
 ### DevOps & Ferramentas
 - **GitLab**
@@ -48,7 +57,7 @@ Também atuo com modelagem e otimização de bancos relacionais, pipelines de CI
 - **SOLID** & **Clean Code**
 - **Design Patterns** (Builder, Strategy, etc.)
 - DTOs, validações e tratamento de erros
-
+  
 ---
 
 ## 🛠️ Languages and Tools
