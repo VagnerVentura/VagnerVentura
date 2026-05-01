@@ -55,7 +55,7 @@ Busco evoluir continuamente como desenvolvedor backend, contribuindo com soluç�
 
 ### Boas práticas
 - **SOLID** & **Clean Code**
-- **Design Patterns** (Builder, Strategy, etc.)
+- **Design Patterns** (Builder, Strategy, Facade, Template Method, CQRS etc.)
 - DTOs, validações e tratamento de erros
   
 ---
