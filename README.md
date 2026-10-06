@@ -102,40 +102,40 @@ Tenho experiência na construção de aplicações cloud-native com foco em esca
 <p align="left">
 
   <!-- Backend -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
 
   <!-- Cloud -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
 
-  <!-- Mensageria -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg
+  <!-- Event Driven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
 
   <!-- Bancos -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
 
   <!-- DevOps -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
 
-  <!-- Git -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+  <!-- Versionamento -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 
   <!-- Front-end (conhecimentos) -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 
   <!-- Sistema -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 
 </p>
 
